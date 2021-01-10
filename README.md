@@ -16,7 +16,7 @@ Kaggle Kernel 상에서 데이터 경로가 상대적으로 다음과 같음
 
 output file 은 별다른 경로 지정안해줘도 제대로 생성
 
-**Kaggle Kernels GPU Quota 40hours**
+**>> Kaggle Kernels GPU Quota 40hours <<**
 
 ## Issue : conda env kernel 
 
