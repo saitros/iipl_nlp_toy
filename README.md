@@ -5,6 +5,7 @@
 ## Issue : Kernels-only competition
 
 지금까지 해왔던 submission.csv 파일을 제출해서 평가하는 방식이 아닌 Kaggle Kernels 상에서 평가를 받는 방식
+
 (Data Download Issue 라고 생각)
 
 만든 파일을 github 에 업로드 후 Kaggle 에서 URL upload 를 통한 Notebook Load
