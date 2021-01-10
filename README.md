@@ -1,6 +1,7 @@
 # iipl_nlp_toy
 
-9, 10 - Goal : Submission
+~~9, 10 - Goal : Submission ~~
+완료(10)
 
 ## Issue : Kernels-only competition
 
@@ -25,4 +26,8 @@ output file 은 별다른 경로 지정안해줘도 제대로 생성
 결과 로그상으로 남아있어서 세션은 다 돌았는데, output file 이 없어서 제출을 못함 
 
 처음에 사용했던 콘다 가상환경을 기본 Python3 로 변경 후 저장하면 kernel 정보가 Python 으로 변하기 때문에 커널 정보가 바뀐 소스를 사용하면 됨
+
+## Issue : Submission File
+
+Submission.csv 저장할때 dataframe.to_csv('file name.csv', index=False)
 
