@@ -1,6 +1,6 @@
 # iipl_nlp_toy
 
-~~9, 10 - Goal : Submission ~~
+~~9, 10 - Goal : Submission~~
 
 완료(10 / F1 Score:0.04847)
 
