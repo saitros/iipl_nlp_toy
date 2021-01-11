@@ -3,6 +3,11 @@
 ~~9, 10 - Goal : Submission~~
 완료(10 / F1 Score:0.04847)
 
+11 ~ 15 : 모델 디자인
+
+16 ~ 17 : EDA & Feedback
+
+
 ## Issue : Kernels-only competition
 
 지금까지 해왔던 submission.csv 파일을 제출해서 평가하는 방식이 아닌 Kaggle Kernels 상에서 평가를 받는 방식
