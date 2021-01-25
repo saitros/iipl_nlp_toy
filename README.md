@@ -1,11 +1,11 @@
 # iipl_nlp_toy
 
 ~~9, 10 - Goal : Submission~~
-완료(10 / F1 Score:0.04847)
+~~완료(10 / F1 Score:0.04847)~~
 
-11 ~ 15 : 모델 디자인
+~~11 ~ 15 : 모델 디자인~~
 
-16 ~ 17 : EDA & Feedback
+~~16 ~ 17 : EDA & Feedback~~
 
 
 ## Issue : Kernels-only competition
